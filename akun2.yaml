@@ -1,6 +1,6 @@
 proxies:
 
-- name: SG fusuy-cloud
+- name: SG 01
   server: sg3.6n6.net
   port: 443
   type: trojan
@@ -13,7 +13,7 @@ proxies:
     path: /howdy
     headers:
       Host: sg3.6n6.net
-- name: SG fusuy 2 cloud
+- name: SG 02
   server: sg3.6n6.net
   port: 443
   type: trojan
